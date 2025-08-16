@@ -4,6 +4,12 @@ A clean and interactive **Streamlit** web application designed to tackle food wa
 
 ---
 
+## 🌐 Live App
+
+🔗 [Try the app now](https://food-wastage-manager.streamlit.app)
+
+---
+
 ## ⚡ Key Features
 
 - 🔍 **Search & Filter Food** by city, provider type, food type, and meal type
