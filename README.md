@@ -35,7 +35,6 @@ This app bridges the gap between **food donors** and **receivers** by offering a
 | Streamlit | Interactive Web UI framework             |
 | SQLite    | Lightweight relational database          |
 | Pandas    | Data querying & manipulation             |
-| PyArrow   | Efficient dataframe display in Streamlit |
 
 ---
 
