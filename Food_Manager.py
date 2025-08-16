@@ -3,7 +3,7 @@ import pandas as pd
 import sqlite3
 
 # --- Page Config ---
-st.set_page_config(page_title="Food Wastage Management", layout="wide")
+st.set_page_config(page_title="Food Wastage Manager", layout="wide")
 
 # --- Custom CSS ---
 st.markdown("""
